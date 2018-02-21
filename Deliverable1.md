@@ -1,6 +1,6 @@
 
 ##### Riley Bergin<br />Mason Bruce<br />COEN160
-##Deliverable 1
+## Deliverable 1
 
 ### <u>Use Case Diagram</u>
 ![](UseCaseDiagram.png)
@@ -55,10 +55,10 @@
 	<tr style='width:100%;'>
 		<th style='width:50%;'>
 			Responsibility
-		</td>
+		</th>
 		<th style='width:50%;'>
 			Collaborator
-		</td>
+		</th>
 	</tr>
 	<tr style='width:100%;'>
 		<td style='width:50%;'>
@@ -91,10 +91,10 @@
 	<tr style='width:100%;'>
 		<th style='width:50%;'>
 			Responsibility
-		</td>
+		</th>
 		<th style='width:50%;'>
 			Collaborator
-		</td>
+		</th>
 	</tr>
 	<tr style='width:100%;'>
 		<td style='width:50%;'>
@@ -127,10 +127,10 @@
 	<tr style='width:100%;'>
 		<th style='width:50%;'>
 			Responsibility
-		</td>
+		</th>
 		<th style='width:50%;'>
 			Collaborator
-		</td>
+		</th>
 	</tr>
 	<tr style='width:100%;'>
 		<td style='width:50%;'>
@@ -163,10 +163,10 @@
 	<tr style='width:100%;'>
 		<th style='width:50%;'>
 			Responsibility
-		</td>
+		</th>
 		<th style='width:50%;'>
 			Collaborator
-		</td>
+		</th>
 	</tr>
 	<tr style='width:100%;'>
 		<td style='width:50%;'>
