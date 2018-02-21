@@ -26,9 +26,7 @@
 		<td style='width:50%;'>
 			Knows name, contact info
 		</td>
-		<td style='width:50%;'>
-		
-		</td>
+		<td style='width:50%;'></td>
 	</tr>
 	<tr style='width:100%;'>
 		<td style='width:50%;'>
@@ -39,16 +37,14 @@
 		</td>
 	</tr>
 </table>
+
 <!--Store-->
 <table style='width:70%; border: 1px solid black;'>
-	 <thead>
-        <tr>
-            <th colspan="2" style="text-align: left;">
-            		Store
-            </th>
-        </tr>
-        
-    </thead>
+	<thead>
+        	<th colspan="2" style="text-align: left;">
+			Store
+            	</th>
+    	</thead>
 	<tr style='width:100%;'>
 		<th style='width:50%;'>
 			Responsibility
@@ -77,14 +73,11 @@
 
 <!--CampusCard-->
 <table style='width:70%; border: 1px solid black;'>
-	 <thead>
-        <tr>
-            <th colspan="2" style="text-align: left;">
+	<thead>
+        	<th colspan="2" style="text-align: left;">
             		CampusCard
-            </th>
-        </tr>
-        
-    </thead>
+		</th>
+    	</thead>
 	<tr style='width:100%;'>
 		<th style='width:50%;'>
 			Responsibility
@@ -113,14 +106,11 @@
 
 <!--SnackItem-->
 <table style='width:70%; border: 1px solid black;'>
-	 <thead>
-        <tr>
-            <th colspan="2" style="text-align: left;">
+	<thead>
+        	<th colspan="2" style="text-align: left;">
             		SnackItem
-            </th>
-        </tr>
-        
-    </thead>
+            	</th>
+   	</thead>
 	<tr style='width:100%;'>
 		<th style='width:50%;'>
 			Responsibility
@@ -133,9 +123,7 @@
 		<td style='width:50%;'>
 			Knows its type of food, price and caloric value
 		</td>
-		<td style='width:50%;'>
-		
-		</td>
+		<td style='width:50%;'></td>
 	</tr>
 	<tr style='width:100%;'>
 		<td style='width:50%;'>
@@ -149,14 +137,11 @@
 
 <!--ExpenseProfile-->
 <table style='width:70%; border: 1px solid black;'>
-	 <thead>
-        <tr>
-            <th colspan="2" style="text-align: left;">
+	<thead>
+       		<th colspan="2" style="text-align: left;">
             		ExpenseProfile
-            </th>
-        </tr>
-        
-    </thead>
+            	</th>
+     	</thead>
 	<tr style='width:100%;'>
 		<th style='width:50%;'>
 			Responsibility
@@ -177,8 +162,6 @@
 		<td style='width:50%;'>
 			Calculates current balance
 		</td>
-		<td style='width:50%;'>
-			
-		</td>
+		<td style='width:50%;'></td>
 	</tr>
 </table>
