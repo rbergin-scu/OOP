@@ -5,18 +5,15 @@
 ### <u>Use Case Diagram</u>
 ![](UseCaseDiagram.png)
 
-
 ### <u>CRC Cards</u>
 <!--CCU-->
+
 <table style='width:70%; border: 1px solid black;'>
-	 <thead>
-        <tr>
-            <th colspan="2" style="text-align: left;">
-            		CampusCardUser
-            </th>
-        </tr>
-        
-    </thead>
+	<thead>
+        	<th colspan="2" style="text-align: left;">
+			CampusCardUser
+		</th>  
+    	</thead>
 	<tr style='width:100%;'>
 		<th style='width:50%;'>
 			Responsibility
