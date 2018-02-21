@@ -1,12 +1,12 @@
 
-#####Riley Bergin<br />Mason Bruce<br />COEN160
+##### Riley Bergin<br />Mason Bruce<br />COEN160
 ##Deliverable 1
 
-###<u>Use Case Diagram</u>
+### <u>Use Case Diagram</u>
 ![](UseCaseDiagram.png)
 
 
-###<u>CRC Cards</u>
+### <u>CRC Cards</u>
 <!--CCU-->
 <table style='width:70%; border: 1px solid black;'>
 	 <thead>
