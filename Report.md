@@ -22,7 +22,7 @@
 <br /><u>Buy</u><br />
 <img src='images/PurchaseUI.png' style='width:50%;' />
 <br /><u>Switch card</u><br />
-<img src='images/Switch.png' style='width:50%;' />
+<img src='images/switch.png' style='width:50%;' />
 <br /><u>Purchase complete</u><br />
 <img src='images/StoreFrontThankYou.png' style='width:75%;' />
 </center>
