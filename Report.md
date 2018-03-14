@@ -1,12 +1,12 @@
-##Final Project - COEN 160<br /><font style="font-size:12pt">Riley Bergin, Mason Bruce</font>
+## Final Project - COEN 160<br /><font style="font-size:12pt">Riley Bergin, Mason Bruce</font>
 
 
-####Class Diagram:
+#### Class Diagram:
 ![](images/ClassDiagram.png)
 
-####Interaction Diagrams:
+#### Interaction Diagrams:
 
-####Interface:
+#### Interface:
 
 <center>
 <u>Launch</u><br />
@@ -28,7 +28,7 @@
 </center>
 
 
-####Classes:
+#### Classes:
 
 <table style="width: 75%;">
 	<tr>
