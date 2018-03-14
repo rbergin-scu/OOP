@@ -1,0 +1,9 @@
+Pringles;SNACK;3.98;160
+Apple;FRUIT;1.25; 65
+Banana;FRUIT; 1.50; 72
+Sprite;DRINK; 2.00; 160
+Water;DRINK; 1.75; 0
+Diet Coke;DRINK; 3.98; 160
+Cheetos;SNACK; 4.25; 160
+Hershey's Bar;CANDY; 3.50; 160
+M&M's;CANDY; 2.95; 160
