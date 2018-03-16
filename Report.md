@@ -7,6 +7,8 @@
 #### Interaction Diagrams:
 
 <center>
+<u>Logging In</u><br />
+<img src='LogInInteraction.png' style='width:50%;'/>
 <u>Activating a new Campus Card</u><br />
 <img src='ActivatingNewUserInteraction.png' style='width:50%;'/>
 </center>
